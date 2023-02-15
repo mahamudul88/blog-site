@@ -1,0 +1,16 @@
+@media all and(max-width: 1199px){
+    .container{
+        padding: 0 30px;
+    }
+}
+
+@media all and(max-width:650px){
+    .h-menu {
+        .menu{
+            display: none;
+        }
+    }
+    .menu-trigger span{
+        display: block !important;
+    }
+}
